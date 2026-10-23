@@ -162,6 +162,12 @@ h2 {
         0 20px 60px rgba(100, 40, 60, 0.15);
 }
 
+.video-container iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border: none;
+    display: block;
+}
 
 video {
     width: 100%;
