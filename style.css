@@ -150,16 +150,9 @@ h2 {
 
 
 .video-container {
-    max-width: 900px;
-
-    margin: auto;
-
-    overflow: hidden;
-
-    border-radius: 20px;
-
-    box-shadow:
-        0 20px 60px rgba(100, 40, 60, 0.15);
+    width: 95%;
+    max-width: 1200px;
+    margin: 50px auto 0;
 }
 
 .video-container iframe {
@@ -168,7 +161,6 @@ h2 {
     border: none;
     display: block;
 }
-
 video {
     width: 100%;
 
